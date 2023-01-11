@@ -1,7 +1,7 @@
-let country = "India";
-let continent = "Asia";
-let population = "100 cr";
+// let country = "India";
+// let continent = "Asia";
+// let population = "100 cr";
 
-console.log(country);
-console.log(continent);
-console.log(population);
+// console.log(country);
+// console.log(continent);
+// console.log(population);
